@@ -4,7 +4,7 @@ This repo contains the EAGLE files for the PCB design of a prototype double-lead
 
 Picture of a Standard ECG
 
-![Picture of a Standard ECG](2_lead_ecg_brd.png)
+![Picture of a Standard ECG](sample_ecg.png)
 
 Board Design For 2-Lead ECG
 
